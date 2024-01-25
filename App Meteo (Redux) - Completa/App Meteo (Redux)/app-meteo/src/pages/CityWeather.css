@@ -1,0 +1,6 @@
+.box2, .box1, .box3 {
+    border-left: 2px solid grey;
+    border: 2px solid grey;
+    border-radius: 15px;
+}
+
